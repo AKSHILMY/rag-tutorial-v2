@@ -14,4 +14,5 @@ PyMySQL==1.0.3
 openai~=1.35.5
 opensearch-py
 weaviate-client
+clickhouse-connect # myscale
 
